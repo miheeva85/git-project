@@ -1,1 +1,6 @@
 Fourth file text
+<<<<<<< HEAD
+=======
+
+This file was modified in the feature branch.
+>>>>>>> new-feature
